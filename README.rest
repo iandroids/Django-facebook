@@ -1,5 +1,5 @@
 ##############################################################################################
-Django Facebook by Thierry Schellenbach (`mellowmorning.com <http://www.mellowmorning.com/>`_)
+Django [Facebook](https://aapks.com/apk/facebook/) by Thierry Schellenbach (`mellowmorning.com <http://www.mellowmorning.com/>`_)
 ##############################################################################################
 
 .. image:: https://secure.travis-ci.org/tschellenbach/Django-facebook.png?branch=master
@@ -47,7 +47,7 @@ Features
    * Mobile (Or any other flow giving you a valid access token)
 * Django User Registration (Convert Facebook user data into a user model)
 * Store likes, friends and user data locally.
-* Facebook FQL access
+* [Facebook](https://aapks.com/apk/facebook/) FQL access
 * OAuth 2.0 compliant
 * Automated reauthentication (For expired tokens)
 * Includes Open Facebook (stable and tested Python client to the graph API)
